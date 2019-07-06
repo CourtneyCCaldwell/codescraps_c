@@ -15,3 +15,5 @@ Below is a description of the programs included: I'll update as I go.
   as an interview question, I decided to see how I would implement it. I've become very quick at building a program
   to play fizzbuzz, and I've done it a few ways, this is just one of the methods I've tried.
   
+~prime.c
+  I just created a prime generator in c.
